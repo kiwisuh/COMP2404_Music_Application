@@ -1,0 +1,6 @@
+.log start_both
+show songs
+show users
+show recordings
+.log save save.txt
+.log stop
